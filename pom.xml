@@ -42,9 +42,9 @@
   </developers>
 
   <scm>
-    <connection>scm:svn:http://svn.codehaus.org/sonar-plugins/trunk/artifact-size</connection>
-    <developerConnection>scm:svn:https://svn.codehaus.org/sonar-plugins/trunk/artifact-size</developerConnection>
-    <url>http://svn.sonar-plugins.codehaus.org</url>
+    <connection>scm:git:git@github.com:SonarCommunity/sonar-artifact-size.git</connection>
+    <developerConnection>scm:git:git@github.com:SonarCommunity/sonar-artifact-size.git</developerConnection>
+    <url>https://github.com/SonarCommunity/sonar-artifact-size</url>
   </scm>
   <issueManagement>
     <system>JIRA</system>
