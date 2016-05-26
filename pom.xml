@@ -13,7 +13,6 @@
 
   <name>Sonar Artifact Size plugin</name>
   <description>Measure the size of the project artifact.</description>
-  <url>http://docs.codehaus.org/display/SONAR/Artifact+Size+Plugin</url>
   <organization>
     <name>SonarSource</name>
     <url>http://www.sonarsource.com</url>
@@ -42,13 +41,13 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git@github.com:SonarCommunity/sonar-artifact-size.git</connection>
-    <developerConnection>scm:git:git@github.com:SonarCommunity/sonar-artifact-size.git</developerConnection>
-    <url>https://github.com/SonarCommunity/sonar-artifact-size</url>
+    <connection>scm:git:git@github.com:SonarQubeCommunity/sonar-artifact-size.git</connection>
+    <developerConnection>scm:git:git@github.com:SonarQubeCommunity/sonar-artifact-size.git</developerConnection>
+    <url>https://github.com/SonarQubeCommunity/sonar-artifact-size</url>
   </scm>
   <issueManagement>
-    <system>JIRA</system>
-    <url>http://jira.codehaus.org/browse/SONARPLUGINS/component/14112</url>
+    <system>GitHub Issues</system>
+    <url>https://github.com/SonarQubeCommunity/sonar-artifact-size/issues</url>
   </issueManagement>
 
   <properties>
