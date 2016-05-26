@@ -1,6 +1,5 @@
 Artifact Size Plugin
 ====================
-
 [![Build Status](https://api.travis-ci.org/SonarQubeCommunity/sonar-artifact-size.svg)](https://travis-ci.org/SonarQubeCommunity/sonar-artifact-size)
 
 ## Description / Features
